@@ -30,7 +30,7 @@ export default async function HomePage() {
   return (
     <>
       <header>
-        <div className='logo'>E-commerce</div>
+        <div className='logo'>Luxee Loom</div>
         <nav>
           <Link href='/' className='link'>Home</Link>
           <Link href='/About' className='link'>About</Link>
