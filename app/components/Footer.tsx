@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer>
         <div className='col-1'>
-          <h1>E-Commmerce website</h1>
+          <h1>Luxee Loom</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           <span>Dawood, 2024</span>
         </div>
